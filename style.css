@@ -1,0 +1,43 @@
+body {
+    font-family: Gill Sans, Gill Sans MT, Calibri, Trebuchet, sans-serif;
+    margin: 20px;
+    background-color: #f4f4f4;
+    padding: 20px;
+    background-image: url(bg.jpeg);
+    background-size: cover;
+}
+
+h1, h2, h3 {
+    color: #171717;
+}
+h1 {
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+h2 {
+    margin-top: 40px;
+    font-size: 40px;
+}
+h3 {
+    margin-top: 30px;
+    font-size: 30px;
+}
+p {
+    font-size: 22px;
+    line-height: 1.6;
+}
+
+.container {
+    background-color: #ffffff7d;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.189);
+    display: inline-block;
+    width: 45%;
+    margin: 1%;
+}
+
+#abtme, #addinfo {
+        box-sizing: border-box;
+}
